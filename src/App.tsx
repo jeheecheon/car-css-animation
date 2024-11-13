@@ -34,6 +34,7 @@ function App() {
       <Road>
         <Car curPosition={position}>🚗</Car>
       </Road>
+      <p>오른쪽 방향키를 눌러 속도를 높이세요.</p>
     </>
   );
 }

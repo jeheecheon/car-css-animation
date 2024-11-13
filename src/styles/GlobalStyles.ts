@@ -12,6 +12,7 @@ const GlobalStyles = createGlobalStyle`
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
   }
 `;
 
